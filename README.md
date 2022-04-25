@@ -1,3 +1,2 @@
 # littlebirdscanremember
-
-this is my silly little game (or the into section at least). this is an experiment of combining my passions of art, music, storytelling, and technology into one project.
+here is my silly little visual novel game (or the intro section at least). this is my experiment of combining my passions of art, music, storytelling, and technology into one project :D
